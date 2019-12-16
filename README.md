@@ -1,3 +1,3 @@
 # collisior.github.io
 
-Resume
+About me
